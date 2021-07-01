@@ -7,6 +7,7 @@ Simpler bottom sheet using scrollviews
 This is an extracted piece of code from most of my simple bottom sheet implementations where heavy libraries for a simple scroll set animation isn't required. This library **doesn't use gesture-handler or reanimated** and is based off of the default views from react-native instead. If you do need something extensive, consider using the below alternative(s):
 
 - https://jeremybarbet.github.io/react-native-modalize/#/
+- https://github.com/gorhom/react-native-bottom-sheet
 
 ## Installation
 
